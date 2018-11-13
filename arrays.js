@@ -32,6 +32,6 @@ function removeElementFromBeginningOfArray (array) {
 }
 
 function destructivelyAddElementToEndOfArray (array) {
-  array.pop()
+  array.pop();
   return array
 }
